@@ -4,6 +4,7 @@ body {
     -webkit-text-size-adjust: none
 }
 footer {
+    font-family: OCR A;
     text-align: center;
     padding: 3px;
     background-color: #e9e9e9;
@@ -11,12 +12,12 @@ footer {
 }
 li {
     margin-top: 0px;
-    margin-bottom: 6px;
+    margin-bottom: 9px;
     margin-right: 0px;
     margin-left: 0px;
 }
 .page {
-    font-family: monospace, sans-serif;
+    font-family: OCR A;
     font-size: 1rem;
     color: #000;
     margin: auto;
@@ -34,13 +35,12 @@ li {
     color:#c33;
     margin:0 16px
 }
-.headerImg {
+#headerImg {
     display: block;
     background: #fff;
     width: 224px;
     height: 224px;
     margin: 16px;
-    background-image:url(../img/borderlands.jpg);
     background-size: cover;
     background-position: 50% 50%
 }
