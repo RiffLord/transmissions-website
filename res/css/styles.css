@@ -67,6 +67,8 @@ li {
     width: 350px;
     height: 350px;
     box-shadow: 5px 10px 8px #888888;
+    margin-right: 32px;
+    margin-top: 0;
 }
 @media (max-width:800px) {
     #header {
