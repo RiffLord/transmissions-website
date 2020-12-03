@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "transmissions-website"
+    "default": "transmissions-idm",
+    "transmissions": "transmissions-idm"
   }
 }
