@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: transmissions-idm.web.app
+Token: b3b606ca801b966fe3f1f0922ef00b097fd84ccb8e5223650c8c294edbd58054
